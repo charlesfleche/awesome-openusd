@@ -67,7 +67,7 @@ Curated by [@maticodes](https://twitter.com/maticodes)
 
 ### Text Editor Plugins
 * [usd-idea](https://github.com/justint/usd-idea) - PyCharm plugin adding syntax highlighting, reference linking, brace matching/folding, etc.
-* [VS Code USD Language Extension](https://marketplace.visualstudio.com/items?itemName=AnimalLogic.vscode-usda-syntax) - From Animal Logic, adss syntax highlighting and reference linking.
+* [VS Code USD Language Extension](https://marketplace.visualstudio.com/items?itemName=AnimalLogic.vscode-usda-syntax) - From Animal Logic, adds syntax highlighting and reference linking.
 * [usda-syntax](https://github.com/superfunc/usda-syntax) - Syntax Highlighting for USDA files in vim, emacs & sublime.
 * [Notepad++ Syntax Highlighter](https://github.com/AndrewHazelden/PIXAR-USD-Syntax-Highlighter) - USDA file syntax highlighting in Notepad++.
 
